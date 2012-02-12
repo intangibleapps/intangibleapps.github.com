@@ -3,6 +3,10 @@ header {
   padding: 25px;
 }
 
+header .masthead {
+  margin-bottom: 20px;
+}
+
 header img {
   float: left;
   height: 250px;
