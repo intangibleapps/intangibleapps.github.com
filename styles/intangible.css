@@ -1,0 +1,15 @@
+header {
+  height: 225px;
+  padding: 25px;
+}
+
+header img {
+  float: left;
+  height: 250px;
+  width: 225px;
+}
+
+header h1 {
+  font-size: 81px;
+  margin: 20px 0 20px 0;
+}
